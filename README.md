@@ -1,7 +1,7 @@
 ### Hi there 👋
+# dzy-_-
 
-<!--
-**dzy-coding/dzy-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **dzy-coding/dzy-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/dzy-_-/count.svg)
+
+![decription](https://img.shields.io/badge/tools-Java-green)
